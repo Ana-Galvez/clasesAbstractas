@@ -11,4 +11,5 @@ namespace clasesAbstractas
         public abstract void GetNombre();
 
     }
+
 }
