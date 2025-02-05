@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Animales.cs" />
     <Compile Include="IMamiferosTerrestres.cs" />
+    <Compile Include="Lagartija.cs" />
     <Compile Include="Mamiferos.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
